@@ -23,11 +23,15 @@ Linear-Quadratic-Gaussian (LQG) control is a fundamental control paradigm that i
 python figure_1a.py
 ```
 
+![scale_plot](https://github.com/DR-Control/dr-control/assets/133906859/a9faf941-22b3-423f-9acb-11e76f966077)
+
+
 ### Figure 1 (b)
 ```
 python figure_1b.py
 ```
 
+![convergence](https://github.com/DR-Control/dr-control/assets/133906859/3a3ecbbc-8414-4a0d-b6b1-3748c88a77c8)
 
 ### Plotting the results
 We plot the results using the plotter.ipynb notebook.
